@@ -1,0 +1,14 @@
+[remap]
+
+importer="Theora"
+type="VideoStreamTheora"
+path="res://.import/open-the-door_MUSIC.ogv-c1081e618fd38c5669a4877970ea460a.ogvstr"
+
+[deps]
+
+source_file="res://MEDIA/Videos/open-the-door_MUSIC.ogv"
+dest_files=[ "res://.import/open-the-door_MUSIC.ogv-c1081e618fd38c5669a4877970ea460a.ogvstr" ]
+
+[params]
+
+loop=true

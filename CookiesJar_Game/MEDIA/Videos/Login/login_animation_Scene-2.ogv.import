@@ -1,0 +1,14 @@
+[remap]
+
+importer="Theora"
+type="VideoStreamTheora"
+path="res://.import/login_animation_Scene-2.ogv-2d6f5af55d89d90d7792315494730e79.ogvstr"
+
+[deps]
+
+source_file="res://MEDIA/Videos/Login/login_animation_Scene-2.ogv"
+dest_files=[ "res://.import/login_animation_Scene-2.ogv-2d6f5af55d89d90d7792315494730e79.ogvstr" ]
+
+[params]
+
+loop=true
