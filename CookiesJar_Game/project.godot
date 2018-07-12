@@ -14,10 +14,18 @@ config/name="CookieJAR"
 run/main_scene="res://Scene/main.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+SQLite="*res://lib/SQLite.tscn"
+
 [display]
 
 window/size/width=1360
 window/size/height=780
+
+[editor_plugins]
+
+enabled=PoolStringArray( "PMSConnector" )
 
 [gdnative]
 
