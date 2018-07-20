@@ -2,6 +2,7 @@ extends CanvasLayer
 var userNameFld
 var userPasswordFld
 
+
 #Coleccion de credenciales
 var ls = {'andres': 'root', 'system': 'manager', 'user': 'user'}
 

@@ -38,6 +38,9 @@ var server_path = "/front-pmsc-api.php"
 func _init():
 	print("PMSConnector ON Version 1.7")
 
+func hola():
+	print("Hola")
+
 func pmsc_connect(host, dbusername, dbuserpass, dbname, connection_method):
 	if (connection_method==POST):
 		var err=0
