@@ -7,7 +7,10 @@ path="res://.import/open_the_door_2.ogv-73fbf3bdd0e8c27b83f78714779837bf.ogvstr"
 [deps]
 
 source_file="res://MEDIA/Videos/open_the_door_2.ogv"
+source_md5="f7e0be3f8c7c73f80651cd43652b004f"
+
 dest_files=[ "res://.import/open_the_door_2.ogv-73fbf3bdd0e8c27b83f78714779837bf.ogvstr" ]
+dest_md5="0b6754e697154b44edf2b58ef4566e7b"
 
 [params]
 

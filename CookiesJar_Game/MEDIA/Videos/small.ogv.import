@@ -7,7 +7,10 @@ path="res://.import/small.ogv-b36a48e8f2f4937367401668125d4030.ogvstr"
 [deps]
 
 source_file="res://MEDIA/Videos/small.ogv"
+source_md5="c5c6a975812641519e56af4f9d29fcbb"
+
 dest_files=[ "res://.import/small.ogv-b36a48e8f2f4937367401668125d4030.ogvstr" ]
+dest_md5="722d2142c015136e47fbaef4c098f085"
 
 [params]
 

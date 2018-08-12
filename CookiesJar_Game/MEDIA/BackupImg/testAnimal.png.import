@@ -7,7 +7,10 @@ path="res://.import/testAnimal.png-e6fd60b2600fdb3c43e36ebc0a4cd66a.stex"
 [deps]
 
 source_file="res://MEDIA/BackupImg/testAnimal.png"
+source_md5="15c382c4034ec8339b8dd6c8341bf908"
+
 dest_files=[ "res://.import/testAnimal.png-e6fd60b2600fdb3c43e36ebc0a4cd66a.stex" ]
+dest_md5="5f48376e204c0f0d50601abbcd181883"
 
 [params]
 

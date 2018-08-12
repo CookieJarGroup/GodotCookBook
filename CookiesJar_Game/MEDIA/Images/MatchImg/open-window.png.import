@@ -7,7 +7,10 @@ path="res://.import/open-window.png-11b498dba873219a01021736e4ddd042.stex"
 [deps]
 
 source_file="res://MEDIA/Images/MatchImg/open-window.png"
+source_md5="d8838343c253e48cde5178623202a39c"
+
 dest_files=[ "res://.import/open-window.png-11b498dba873219a01021736e4ddd042.stex" ]
+dest_md5="5d04b64295116f9f4de0d3b079ce9be3"
 
 [params]
 

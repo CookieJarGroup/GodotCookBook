@@ -7,7 +7,10 @@ path="res://.import/stand_up.png-fa56df80af145f4196dfb85b7db55154.stex"
 [deps]
 
 source_file="res://MEDIA/Images/MatchImg/stand_up.png"
+source_md5="54c7578b80a8ff2e633073d492730e3a"
+
 dest_files=[ "res://.import/stand_up.png-fa56df80af145f4196dfb85b7db55154.stex" ]
+dest_md5="aa5e69f85ac3a277983f7134ea2cfd57"
 
 [params]
 

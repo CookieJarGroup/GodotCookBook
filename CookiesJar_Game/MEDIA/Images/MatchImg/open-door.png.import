@@ -7,7 +7,10 @@ path="res://.import/open-door.png-b7be62bb955682e91de9d3722dfbe824.stex"
 [deps]
 
 source_file="res://MEDIA/Images/MatchImg/open-door.png"
+source_md5="5189a35da0320dcd0d4365b0a1aca147"
+
 dest_files=[ "res://.import/open-door.png-b7be62bb955682e91de9d3722dfbe824.stex" ]
+dest_md5="41e48d3bb4430b48add708715b011a40"
 
 [params]
 

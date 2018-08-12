@@ -31,3 +31,7 @@ func validar_credenciales():
 		else:
 			$error_msj.show();
 
+
+
+func _on_htt_pressed():
+	get_tree().change_scene("res://Scene/http_connetion/http_test.tscn")

@@ -7,7 +7,10 @@ path="res://.import/icon.png-89fab02a86d31a5bcf525003386763c0.stex"
 [deps]
 
 source_file="res://addons/PMSConnector/icon.png"
+source_md5="b063c689a264414e441f9d12572a4343"
+
 dest_files=[ "res://.import/icon.png-89fab02a86d31a5bcf525003386763c0.stex" ]
+dest_md5="6640b902f6635556c938c1e186c1315f"
 
 [params]
 

@@ -7,7 +7,10 @@ path="res://.import/open the door image.png-2d549e07d8bdbcdf992641698d61fd77.ste
 [deps]
 
 source_file="res://MEDIA/backup/open the door image.png"
+source_md5="921e463891f6eb2d0539cf8facb07ff7"
+
 dest_files=[ "res://.import/open the door image.png-2d549e07d8bdbcdf992641698d61fd77.stex" ]
+dest_md5="b78ed210efd83692ec5419b5fd39c444"
 
 [params]
 
