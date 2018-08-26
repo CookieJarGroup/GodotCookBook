@@ -1,0 +1,18 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Bienvenido.ogg-59ae33eb38b967418eee8bf5cbb3bc26.oggstr"
+
+[deps]
+
+source_file="res://MEDIA/sounds/Bienvenido.ogg"
+source_md5="f42a4af256a9be8e8a94edbe4286ce08"
+
+dest_files=[ "res://.import/Bienvenido.ogg-59ae33eb38b967418eee8bf5cbb3bc26.oggstr" ]
+dest_md5="fe5b5acd3ce7efed9d5bef55afa462eb"
+
+[params]
+
+loop=false
+loop_offset=0
